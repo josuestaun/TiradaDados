@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="tipo_dado">Tipo de Dado:</string>
+    <string name="dado_1">Dado 1:</string>
+    <string name="dado_2">Dado 2:</string>
+    <string name="dado_3">Dado 3:</string>
+    <string name="dado_4">Dado 4:</string>
+    <string name="total_tirada">Total de la tirada:</string>
+</resources>
